@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\bin\Debug\QLSinhVien-Loi.exe.config
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\bin\Debug\QLSinhVien-Loi.exe
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\bin\Debug\QLSinhVien-Loi.pdb
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien_Loi.frmMain.resources
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien_Loi.Properties.Resources.resources
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien-Loi.exe
+C:\Users\DELL\Downloads\LT_Windows_DA-main\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien-Loi.pdb

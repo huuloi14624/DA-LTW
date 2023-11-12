@@ -1,0 +1,10 @@
+D:\QLSinhVien-Doan\QLSinhVien-Loi\bin\Debug\QLSinhVien-Loi.exe.config
+D:\QLSinhVien-Doan\QLSinhVien-Loi\bin\Debug\QLSinhVien-Loi.exe
+D:\QLSinhVien-Doan\QLSinhVien-Loi\bin\Debug\QLSinhVien-Loi.pdb
+D:\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien-Loi.csproj.AssemblyReference.cache
+D:\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien_Loi.Properties.Resources.resources
+D:\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien-Loi.csproj.GenerateResource.cache
+D:\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien-Loi.csproj.CoreCompileInputs.cache
+D:\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien-Loi.exe
+D:\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien-Loi.pdb
+D:\QLSinhVien-Doan\QLSinhVien-Loi\obj\Debug\QLSinhVien_Loi.frmMain.resources
